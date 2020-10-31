@@ -1,0 +1,9 @@
+q1: this is duplicated code
+
+q3: this is feature envy. i want to move updateAndTrim to the jenkins class from nodes.
+
+ 
+q4: in order to eliminate this repeated code, i used a for loop.
+
+ i didn't really know what to do on q5 and q6
+i saw your instruction on canvas says if i can't run my code, I'm gonna lose all the point for this homework, i was wondering if i can still get some points for the things i have done, i have trouble with leaning in English since that's not my first language, i spent many time on this assignment but i still don't understand some part. i just hope i can pass this class :)
